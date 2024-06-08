@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Analytics, Machine Learning (ML), Artificial Intelligence (AI)
 - 📫 How to reach me: larrysimmons1@live.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm transitioning from a career in finance b/c I ❤️ Data
+- ⚡ Fun fact: I'm transitioning from a career in financial analysis b/c I ❤️ all data the same
 
 <!---
 MrSimmons2u/MrSimmons2u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
